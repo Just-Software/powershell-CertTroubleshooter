@@ -6,7 +6,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use
 the Software free of charge, provided that the Software is distributed
 unmodified and with all accompanying files, including but not limited to
-README.md and LICENSE.md.
+README.md and LICENSE.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -21,4 +21,9 @@ SOFTWARE.
 
 ## Additional Information
 
-This tool is part of the Just Software suite of enterprise certificate management tools, which includes EasyScep (with native Microsoft Intune integration and compatibility with any SCEP MDM solution) and EasyRadius. For more information about our commercial products and services, please visit our website.
+This tool is part of the Just Software suite of enterprise certificate management
+tools, which includes EasyScep (with native Microsoft Intune integration and
+compatibility with any SCEP MDM solution) and EasyRadius - Easy EAP-TLS network
+authentication. 
+For more information about our commercial products and services, please visit 
+our website https://just-software.com/.

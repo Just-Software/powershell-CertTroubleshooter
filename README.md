@@ -130,4 +130,4 @@ For more information about Just Software, visit [just-software.com](https://just
 
 ## License
 
-Copyright (c) 2025 Just Software. See LICENSE.md for details.
+Copyright (c) 2025 Just Software. See LICENSE for details.
